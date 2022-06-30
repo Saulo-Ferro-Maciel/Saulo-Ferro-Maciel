@@ -2,8 +2,8 @@
 ##
 #### My name is Saulo Ferro Maciel
 
-- 🎮 > I am a Technician in Digital Game Programming, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
-- 🌱 > I am currently studying Python and its frameworks
+- 🎮 > I'm a Digital Games Programming Technician, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
+- 🌱 > Currently I'm studying Python and its frameworks
 - 🏕️ > I love camping with my scout group
 - ☕  > And I can't live without coffee
 
