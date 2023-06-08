@@ -13,10 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saulo-Ferro-Maciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Ferro-Maciel&layout=compact&langs_count=7&theme=dark"/>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Js" height="30" width="30" src="https://docs.google.com/uc?id=1z8vwgmsOH5ZmJPPkVs7nc7oUfIcZfovM">
-    <img align="center" alt="Python" height="30" width="30" src="https://docs.google.com/uc?id=1DCruQI-Vg9R4eJWRjGP15GqEGFfaZEQV">
-    <img align="center" alt="Csharp" height="30" width="30" src="https://docs.google.com/uc?id=1Xjjvp7MH10FGaLIFirqI0F-hzFTxV8Ko">
-    <img align="center" alt="Html" height="30" width="30" src="https://docs.google.com/uc?id=1cCZXmLTNmT6kNSIruLPES_UXGYu7130C">
+    <img align="center" alt="JavaScript - Saulo Ferro" height="30" width="30" src="https://docs.google.com/uc?id=1z8vwgmsOH5ZmJPPkVs7nc7oUfIcZfovM">
+    <img align="center" alt="Python - Saulo Ferro" height="30" width="30" src="https://docs.google.com/uc?id=1DCruQI-Vg9R4eJWRjGP15GqEGFfaZEQV">
+    <img align="center" alt="Csharp - Saulo Ferro" height="30" width="30" src="https://docs.google.com/uc?id=1Xjjvp7MH10FGaLIFirqI0F-hzFTxV8Ko">
+    <img align="center" alt="Html - Saulo Fero" height="30" width="30" src="https://docs.google.com/uc?id=1cCZXmLTNmT6kNSIruLPES_UXGYu7130C">
    </div>
 </div>
   
