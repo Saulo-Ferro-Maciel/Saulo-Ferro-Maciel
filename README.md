@@ -5,8 +5,6 @@
 
 - 🎮 _ I'm a Digital Games Programming Technician, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
 - 🌱 _ Currently I'm studying Python and its frameworks
-- 🏕️ _ I love camping with my scout group
-- ☕  _ And I can't live without coffee
 
 <div align="center">
   <a href="https://github.com/Saulo-Ferro-Maciel">
