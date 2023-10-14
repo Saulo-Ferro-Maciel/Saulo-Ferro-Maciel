@@ -1,7 +1,7 @@
-
+<hr>
 <h2 align="center">print("👋_Hi there_👋") </h2>
 
- My name is Saulo Ferro Maciel
+ <p align="center"> My name is Saulo Ferro Maciel </p>
 
 - 🎮 _ I'm a Digital Games Programming Technician, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
 - 🌱 _ Currently I'm studying Python and its frameworks
@@ -16,7 +16,8 @@
     <img align="center" alt="Csharp - Saulo Ferro" height="30" width="30" src="https://docs.google.com/uc?id=1Xjjvp7MH10FGaLIFirqI0F-hzFTxV8Ko">
    </div>
 </div>
-  
+ <br>
+ <hr>
 
   <h2 align="center">🗂️ My contacts 🗂️</h2>
   
