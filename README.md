@@ -19,6 +19,7 @@
   
   ##
   ### 🗂️ My contacts 🗂️
+  <h2 align="center">🗂️ My contacts 🗂️</h2>
   ##
   
   <div align="center"> 
