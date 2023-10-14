@@ -1,6 +1,6 @@
-##
+
 <h2 align="center">print("👋_Hi there_👋") </h2>
-##
+
  My name is Saulo Ferro Maciel
 
 - 🎮 _ I'm a Digital Games Programming Technician, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
@@ -17,9 +17,8 @@
    </div>
 </div>
   
-  ##
+
   <h2 align="center">🗂️ My contacts 🗂️</h2>
-  ##
   
   <div align="center"> 
     <a  href="https://www.youtube.com/channel/UCPOeejMJJZXI1WLxpN09jyA" target="_blank">
