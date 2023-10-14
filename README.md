@@ -1,4 +1,4 @@
-<hr>
+
 <h2 align="center">print("👋_Hi there_👋") </h2>
 
  <p align="center"> My name is Saulo Ferro Maciel </p>
@@ -17,8 +17,6 @@
    </div>
 </div>
  <br>
- <hr>
-
   <h2 align="center">🗂️ My contacts 🗂️</h2>
   
   <div align="center"> 
