@@ -1,10 +1,11 @@
 
 <h2 align="center">print("👋_Hi there_👋") </h2>
-
+<!--
  <p align="center"> My name is Saulo Ferro Maciel </p>
 
+
 - 🎮 _ I'm a Digital Games Programming Technician, graduated by IFMA (Federal Institute of Education, Science and Technology of Maranhão)
-- 🌱 _ Currently I'm studying Python and its frameworks
+- 🌱 _ Currently I'm studying Python and its frameworks -->
 
 <div align="center">
   <a href="https://github.com/Saulo-Ferro-Maciel">
