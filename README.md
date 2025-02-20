@@ -7,20 +7,21 @@
 <div align="left">
   <h3>📊 Minhas Estatísticas</h3>
   <a href="https://github.com/Saulo-Ferro-Maciel">
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saulo-Ferro-Maciel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="162em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saulo-Ferro-Maciel&layout=compact&langs_count=7&theme=dark"/>
+    <img width="420" height="185" src="https://github-readme-stats.vercel.app/api?username=Saulo-Ferro-Maciel&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Saulo"/>
+    <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Ferro-Maciel&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
-<div align="left">
+
+<div align="lefth">
   <h3>🛠️ Minha Stack</h3>
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
-  <img height="30px" style="border: 1px solid white; border-radius: 50%; padding: 5px; background-color: transparent;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
+  <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity">
 </div>
 
 <div align="left">
@@ -35,3 +36,4 @@
 <div align="center">
   <p>Vamos construir algo incrível juntos? 🚀</p>
 </div>
+
