@@ -6,10 +6,12 @@
 
 <div align="left">
   <h3>📊 Minhas Estatísticas</h3>
-  <a href="https://github.com/Saulo-Ferro-Maciel" style="display: flex; align-items: center; gap: 10px;">
+  <div align="center">
+     <a href="https://github.com/Saulo-Ferro-Maciel" style="display: flex; align-items: center; gap: 10px; align:center;">
     <img width="420" height="185" src="https://github-readme-stats.vercel.app/api?username=Saulo-Ferro-Maciel&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Saulo"/>
     <img width="400" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulo-Ferro-Maciel&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
   </a>
+  </div>
 </div>
 
 <div align="lefth">
