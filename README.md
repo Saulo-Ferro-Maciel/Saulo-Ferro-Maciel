@@ -1,7 +1,7 @@
 <h2 align="center">print("👋 Olá, mundo! 👋")</h2>
 
 <div align="center">
-  <p>Oi! Eu sou Saulo, um desenvolvedor brasileiro apaixonado por código, camping e o movimento escoteiro. Gosto de criar soluções com Python, JavaScript e mais, enquanto exploro o mundo da tecnologia e da natureza!</p>
+  <p>Oi! Eu sou Saulo, um desenvolvedor brasileiro apaixonado por código, camping e o movimento escoteiro. <br> Gosto de criar soluções com Python, JavaScript e mais, enquanto exploro o mundo da tecnologia e da natureza!</p>
 </div>
 
 <div align="left">
@@ -32,6 +32,8 @@
     <li>🎮 Fã de criar jogos e explorar o potencial da tecnologia</li>
   </ul>
 </div>
+
+<hr style="width: 100%; height: 2px; border: none; background-color: #ccc;">
 
 <div align="center">
   <p>Vamos construir algo incrível juntos? 🚀</p>
