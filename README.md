@@ -1,4 +1,4 @@
-<h2 align="center">print("👋 Olá, mundo! 👋")</h2>
+<h2 align="center">print("👋 Hello, wolrd! 👋")</h2>
 
 <div align="center">
   <p>Oi! Eu sou Saulo, um desenvolvedor brasileiro apaixonado por código, camping e o movimento escoteiro. <br> Gosto de criar soluções com Python, JavaScript e mais, enquanto exploro o mundo da tecnologia e da natureza!</p>
