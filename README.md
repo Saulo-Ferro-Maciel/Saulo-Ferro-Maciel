@@ -42,7 +42,6 @@
   <p style="font-family: 'Courier New', monospace; color: #00ffff;">
     Let’s spawn some legendary projects together! Connect with me and let the coding adventure begin! 🚀
   </p>
-  <img src="https://media.giphy.com/media/LMcL1h9yUut0l7xWVE/giphy.gif" alt="Retro gaming GIF" width="200px">
 </div>
 
 ---
