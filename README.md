@@ -12,9 +12,9 @@
 ## 🛠️ My Tech Arsenal
 <div align="left">
   <p>Equipped with the ultimate tools for coding domination:</p>
-  <img height="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python - Script Master"> 
-  <img height="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript - Dynamic Wizard"> 
-  <img height="16px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript - Code Enforcer"> 
+  <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python - Script Master"> 
+  <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript - Dynamic Wizard"> 
+  <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript - Code Enforcer"> 
   <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5 - Web Architect"> 
   <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3 - Style Overlord"> 
   <img height="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C - Core Crusader"> 
